@@ -5,7 +5,7 @@ metadata:
   labels:
     app: demo-hotstar
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: demo-hotstar
